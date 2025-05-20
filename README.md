@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier Boga</h1>
 
-<img align="center" alt="Banner" src="https://media.licdn.com/dms/image/v2/D4D16AQHHFlIf05LXBw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1733847058686?e=1741824000&v=beta&t=vMVN117264kSVhl4ACV8jmFuEkmQ1GmLkM3cwukHsiE" width="100%" />
 
 <p align="center">
   🌟 Dedicated to <strong>Cybersecurity</strong> and <strong>Software Development</strong>, currently a student at <strong>42 Madrid</strong>, constantly learning and growing as a professional.
