@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Javier Boga</h1>
 
-<h2 align="center">🎓 42Cursus</h2>
-
 <p align="center">
   <a href="https://profile.intra.42.fr/users/jaboga-d" target="_blank">
     <img src="https://badge.mediaplus.ma/darkblue/jaboga-d" alt="jaboga-d's 42 stats" width="250">
