@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Boga</h1>
 
 ## 🎓 42Cursus
+
   [![jaboga-d's 42 stats](https://badge.mediaplus.ma/darkblue/jaboga-d)](https://profile.intra.42.fr/users/jaboga-d)
   
 <p align="center">
