@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/jaboga-d" target="_blank">
-    <img src="https://badge.mediaplus.ma/darkblue/jaboga-d" alt="jaboga-d's 42 stats">
+    <img src="https://badge.mediaplus.ma/darkblue/jaboga-d" alt="jaboga-d's 42 stats" width="250">
   </a>
 </p>
 
